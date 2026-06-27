@@ -10,6 +10,8 @@ The original (full and official!) README is here:
 
 [Quick Symlink README on GitHub](https://github.com/ololx/quick-symlink/blob/main/README.md)
 
-This fork is purely so that I could create and release an Intel build for myself, as the latest release on the original project is ARM only.
+This fork is purely so that I could create and release an Intel build for myself (as the latest release on the original project is compiled for ARM only):
+
+https://github.com/charlierobin/quick-symlink/releases/download/v0.10.5/quick-symlink.app.zip
 
 Charlie
